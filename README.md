@@ -6,7 +6,7 @@ This NodeJS application list all users and associated clients registered with th
 Usage
 -----
 
-    $ node list-user-clients -h *host* -p *port* -t *api_token*
+    $ node list-user-clients -h host -p port -t api_token
 
 With:
 
