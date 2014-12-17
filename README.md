@@ -3,6 +3,16 @@ README
 
 This NodeJS application list all users and associated clients registered with the given RhoConnect server.
 
+Installation
+------------
+
+* Clone or download.
+* Install NodeJS and npm.
+* Download and install depedencies using npm:
+
+    $ cd list-user-clients
+    $ npm install
+
 Usage
 -----
 
