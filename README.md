@@ -1,7 +1,8 @@
 README
 ======
 
-This NodeJS application list all users and associated clients registered with the given RhoConnect server.
+This NodeJS application list all users and associated clients registered with
+the given RhoConnect server.
 
 Installation
 ------------
